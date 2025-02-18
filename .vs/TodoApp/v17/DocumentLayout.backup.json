@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{949E35DE-F6CA-4E15-AA7B-34D20AA9EDF3}|TodoApp\\TodoApp.csproj|c:\\users\\tolgademirvbm\\onedrive - veri bilgi merkezi bili\u015Fim hizmetleri a.\u015F\\belgeler\\repos\\todoapp\\todoapp\\custom\\todogiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949E35DE-F6CA-4E15-AA7B-34D20AA9EDF3}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\custom\\todogiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949E35DE-F6CA-4E15-AA7B-34D20AA9EDF3}|TodoApp\\TodoApp.csproj|c:\\users\\tolgademirvbm\\onedrive - veri bilgi merkezi bili\u015Fim hizmetleri a.\u015F\\belgeler\\repos\\todoapp\\todoapp\\custom\\todogiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949E35DE-F6CA-4E15-AA7B-34D20AA9EDF3}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\custom\\todogiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949E35DE-F6CA-4E15-AA7B-34D20AA9EDF3}|TodoApp\\TodoApp.csproj|c:\\users\\tolgademirvbm\\onedrive - veri bilgi merkezi bili\u015Fim hizmetleri a.\u015F\\belgeler\\repos\\todoapp\\todoapp\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949E35DE-F6CA-4E15-AA7B-34D20AA9EDF3}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949E35DE-F6CA-4E15-AA7B-34D20AA9EDF3}|TodoApp\\TodoApp.csproj|c:\\users\\tolgademirvbm\\onedrive - veri bilgi merkezi bili\u015Fim hizmetleri a.\u015F\\belgeler\\repos\\todoapp\\todoapp\\todoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949E35DE-F6CA-4E15-AA7B-34D20AA9EDF3}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\todoekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949E35DE-F6CA-4E15-AA7B-34D20AA9EDF3}|TodoApp\\TodoApp.csproj|c:\\users\\tolgademirvbm\\onedrive - veri bilgi merkezi bili\u015Fim hizmetleri a.\u015F\\belgeler\\repos\\todoapp\\todoapp\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949E35DE-F6CA-4E15-AA7B-34D20AA9EDF3}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949E35DE-F6CA-4E15-AA7B-34D20AA9EDF3}|TodoApp\\TodoApp.csproj|c:\\users\\tolgademirvbm\\onedrive - veri bilgi merkezi bili\u015Fim hizmetleri a.\u015F\\belgeler\\repos\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949E35DE-F6CA-4E15-AA7B-34D20AA9EDF3}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\TodoApp\\TodoEkle.cs",
+              "RelativeDocumentMoniker": "TodoApp\\TodoEkle.cs",
+              "ToolTip": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\TodoApp\\TodoEkle.cs [Design]",
+              "RelativeToolTip": "TodoApp\\TodoEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:30:53.431Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\TodoApp\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "TodoApp\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\TodoApp\\AnaSayfa.cs",
+              "RelativeToolTip": "TodoApp\\AnaSayfa.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:30:41.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeToolTip": "TodoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:29:13.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoGiris.cs",
+              "DocumentMoniker": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\TodoApp\\custom\\TodoGiris.cs",
+              "RelativeDocumentMoniker": "TodoApp\\custom\\TodoGiris.cs",
+              "ToolTip": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\TodoApp\\custom\\TodoGiris.cs",
+              "RelativeToolTip": "TodoApp\\custom\\TodoGiris.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:23:06.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnaSayfa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\TodoApp\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "TodoApp\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\TodoApp\\AnaSayfa.cs [Design]",
+              "RelativeToolTip": "TodoApp\\AnaSayfa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:23:01.025Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\TodoApp\\custom\\TodoGiris.cs",
+              "RelativeDocumentMoniker": "TodoApp\\custom\\TodoGiris.cs",
+              "ToolTip": "C:\\Users\\TolgaDemirVBM\\OneDrive - Veri Bilgi Merkezi Bili\u015Fim Hizmetleri A.\u015E\\Belgeler\\repos\\TodoApp\\TodoApp\\custom\\TodoGiris.cs [Design]",
+              "RelativeToolTip": "TodoApp\\custom\\TodoGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:22:40.598Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

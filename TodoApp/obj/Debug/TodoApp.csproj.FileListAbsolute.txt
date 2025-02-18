@@ -1,0 +1,27 @@
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\bin\Debug\TodoApp.exe.config
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\bin\Debug\TodoApp.exe
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\bin\Debug\TodoApp.pdb
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.AssemblyReference.cache
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.AnaSayfa.resources
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.Properties.Resources.resources
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.GenerateResource.cache
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.exe
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.pdb
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.TodoEkle.resources
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.TodoSil.resources
+C:\Users\TolgaDemirVBM\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.TodoGuncelle.resources
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\bin\Debug\TodoApp.exe.config
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\bin\Debug\TodoApp.exe
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\bin\Debug\TodoApp.pdb
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.AssemblyReference.cache
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\obj\Debug\TodoApp.AnaSayfa.resources
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\obj\Debug\TodoApp.Properties.Resources.resources
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\obj\Debug\TodoApp.TodoEkle.resources
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\obj\Debug\TodoApp.TodoGuncelle.resources
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\obj\Debug\TodoApp.TodoSil.resources
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.GenerateResource.cache
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\obj\Debug\TodoApp.exe
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\obj\Debug\TodoApp.pdb
+C:\Users\TolgaDemirVBM\OneDrive - Veri Bilgi Merkezi Bilişim Hizmetleri A.Ş\Belgeler\repos\TodoApp\TodoApp\obj\Debug\TodoApp.custom.TodoGiris.resources
